@@ -14,6 +14,15 @@ What: Innovate for good hackathon Nov 8
 Desc: 
 Link: https://hackathon.hackthisfall.tech/virtual
 
+What: Cool research stuff 
+Desc: like senior projects a bit cool heathcare stuff stevens people are doing, i am going to find inspiration. In howe. 
+Link: Next-Gen Healthcare Innovators Symposium 2024
+
+What: Talk about AI patents 
+Desc: Talk about AI patents. In UCC
+Link: https://www.stevens.edu/events/ai-innovations-patenting-in-the-age-of-artificial-intelligence
+
 What:
 Desc:
-Link: 
+Link:
+
